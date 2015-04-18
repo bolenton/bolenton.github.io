@@ -23,7 +23,7 @@ Great you made it to step 2. Now that your blog is ready, let's put it under ver
 
 * This step is very important: create a simple .txt file and name it `"CNAME".` Open the file and type your custom domain name in it. Save it.
 
-    {% include image_caption.html imageurl="/assets/img/post_img/cname.png" title="CNAME" description="Create a simple .txt file and name it CNAME" %}
+        {% include image_caption.html imageurl="/assets/img/post_img/cname.png" title="CNAME" description="Create a simple .txt file and name it CNAME" %}
 
 1. Ok crank up your terminal, and cd into the directory that your site lives in.
 2. Head back to your terminal. Its time to initialize version control by entering the command. `$ git init`
@@ -43,7 +43,7 @@ We are finally ready to push to github and see our site automatically running li
 
 
 
-  Now follow the instruction to push your blog to your new repository.
+Now follow the instruction to push your blog to your new repository.
 That's it! Your new page should be up at www.username.github.io
 If you don't see it right away, give it a few minutes, ten at the most.
 
