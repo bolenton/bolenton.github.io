@@ -25,7 +25,7 @@ Great you made it to step 2. Now that your blog is ready, let's put it under ver
 
         {% include image_caption.html imageurl="/assets/img/post_img/cname.png" title="CNAME" description="Create a simple .txt file and name it CNAME" %}
 
-1. Ok crank up your terminal, and cd into the directory that your site lives in.
+##1. Ok crank up your terminal, and cd into the directory that your site lives in.
 2. Head back to your terminal. Its time to initialize version control by entering the command. `$ git init`
 3. Now enter type `$ git add .`  to add the entire project under git tracking.
 4. Let's commit it: `$ git commit -m "first commit"`
