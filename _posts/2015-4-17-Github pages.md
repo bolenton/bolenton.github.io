@@ -22,7 +22,8 @@ So you decided to start a blog. Now what? There are many way you could go. Like 
 Great you made it to step 2. Now that your blog is ready, let's put it under version control using [Git](http://git-scm.com/). This Article assumes you have [Git installed](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git), you have a github account and can [push to it](http://guides.railsgirls.com/github/). 
 
 * This step is very important: create a simple .txt file and name it `"CNAME".` Open the file and type your custom domain name in it. Save it.
-{% include image_caption.html imageurl="/assets/img/post_img/cname.png" title="CNAME" description="Create a simple .txt file and name it CNAME" %}
+
+    {% include image_caption.html imageurl="/assets/img/post_img/cname.png" title="CNAME" description="Create a simple .txt file and name it CNAME" %}
 
 1. Ok crank up your terminal, and cd into the directory that your site lives in.
 2. Head back to your terminal. Its time to initialize version control by entering the command. `$ git init`
