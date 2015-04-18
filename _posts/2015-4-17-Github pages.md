@@ -44,7 +44,6 @@ We are finally ready to push to github and see our site automatically running li
 {% include image_caption.html imageurl="/assets/img/post_img/github.png" title="CNAME" description="Name your repository, don't do anything else, hit 'Create Repository'" %}
 
 
-
 Now follow the instruction to push your blog to your new repository. That's it! Your new page should be up at www.username.github.io If you don't see it right away, give it a few minutes, ten at the most.
 
 ##<i class="fa fa-spinner"></i>Step 4: Assign your custom domain to you new github page
