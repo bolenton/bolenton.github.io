@@ -25,7 +25,8 @@ Great you made it to step 2. Now that your blog is ready, let's put it under ver
 
 {% include image_caption.html imageurl="/assets/img/post_img/cname.png" title="CNAME" description="Create a simple .txt file and name it CNAME" %}
 
-##1. Ok crank up your terminal, and cd into the directory that your site lives in.
+##
+1. Ok crank up your terminal, and cd into the directory that your site lives in.
 2. Head back to your terminal. Its time to initialize version control by entering the command. `$ git init`
 3. Now enter type `$ git add .`  to add the entire project under git tracking.
 4. Let's commit it: `$ git commit -m "first commit"`
@@ -39,10 +40,10 @@ We are finally ready to push to github and see our site automatically running li
 3. For your page to automatically be hosted there is a naming convention you must follow. Name your new username.github.io leave everything else as is and press "Create Repository. 
 
 
-    {% include image_caption.html imageurl="/assets/img/post_img/github.png" title="CNAME" description="Name your repository, don't do anything else, hit 'Create Repository'" %}
+{% include image_caption.html imageurl="/assets/img/post_img/github.png" title="CNAME" description="Name your repository, don't do anything else, hit 'Create Repository'" %}
 
 
-
+##
 Now follow the instruction to push your blog to your new repository.
 That's it! Your new page should be up at www.username.github.io
 If you don't see it right away, give it a few minutes, ten at the most.
