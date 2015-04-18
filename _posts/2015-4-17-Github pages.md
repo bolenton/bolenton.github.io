@@ -37,7 +37,9 @@ We are finally ready to push to github and see our site automatically running li
 2. On your home page click the big green button that says "+ New repository."
 3. For your page to automatically be hosted there is a naming convention you must follow. Name your new username.github.io leave everything else as is and press "Create Repository. 
 
-{% include image_caption.html imageurl="/assets/img/post_img/github.png" title="CNAME" description="Name your repository, don't do anything else, hit 'Create Repository'" %}
+
+    {% include image_caption.html imageurl="/assets/img/post_img/github.png" title="CNAME" description="Name your repository, don't do anything else, hit 'Create Repository'" %}
+
 
 Now follow the instruction to push your blog to your new repository.
 That's it! Your new page should be up at www.username.github.io
