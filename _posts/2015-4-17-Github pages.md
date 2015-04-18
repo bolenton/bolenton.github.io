@@ -44,9 +44,7 @@ We are finally ready to push to github and see our site automatically running li
 
 
 ##
-Now follow the instruction to push your blog to your new repository.
-That's it! Your new page should be up at www.username.github.io
-If you don't see it right away, give it a few minutes, ten at the most.
+Now follow the instruction to push your blog to your new repository. That's it! Your new page should be up at www.username.github.io If you don't see it right away, give it a few minutes, ten at the most.
 
 ##<i class="fa fa-spinner"></i>Step 4: Assign your custom domain to you new github page
 This will vary depending who your domain is registered with. I have GoDaddy so the images are specific to that. But the steps should be similar with other domain providers. Here is how I did it.
