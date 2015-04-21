@@ -112,17 +112,26 @@
 		}
 	}
 
-	@media screen and (max-width: 1350px) {
-		opacity:0;
-	}
+    @media screen and (max-width: 1300px){
+      .profile {
+        opacity:0 !important;
+        display:none !important;
+      }
+    }
 
-	@media screen and (max-width: 1330px) {
-		display:none;
-	}
+  @media screen and (max-width: 1300px){
+    .profile {
+      opacity:0 !important;
+      display:none !important;
+    }
+  }
 
-	@media screen and (max-height: 640px) {
-		display:none;
-	}
+  @media screen and (max-width: 1300px){
+    .profile {
+      opacity:0 !important;
+      display:none !important;
+    }
+  }
 
 }
 
