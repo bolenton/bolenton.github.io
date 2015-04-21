@@ -3,7 +3,7 @@
 	
 	position:fixed;
 	width:15%;
-	right:2%;
+	right:3%;
 	top:130px;
 	z-index:400;
 	-webkit-backface-visibility: hidden;
@@ -112,11 +112,14 @@
 		}
 	}
 
-	@media screen and (max-width: 1350px) {
-		opacity:0;
-	}
+    @media screen and (max-width: 1300px){
+      .profile {
+        opacity:0 !important;
+        display:none !important;
+      }
+    }
 
-	@media screen and (max-width: 1330px) {
+	@media screen and (max-width: 1300px) {
 		display:none;
 	}
 
