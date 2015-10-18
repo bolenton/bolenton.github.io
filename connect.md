@@ -10,7 +10,8 @@ comments: false
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 
 <h2 align="center">Subscribe to my mailing list</h2>
-    I would Love to keep in touch with you! Hit subcribe if you want to recieve updates from me. Or if you simply just want to be notified when I make a new blog post.
+    I would Love to keep in touch with you! Hit subscribe if you want to receive updates from me. 
+    Or if you simply just want to be notified when I make a new blog post.   Say `Hello` at <taurus@tauruso.com>
 
 
 
