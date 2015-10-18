@@ -15,7 +15,7 @@ comments: false
 
 #### Contact me
 
-Say `Hello` at <taurus@tauruso.com>
+Say `Hello` at <taurus@tauruso.com> or find me on social network.
 
 <div class="profile {% if page.featured == true %} featured {% endif %}">
 
