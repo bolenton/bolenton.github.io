@@ -13,6 +13,7 @@ I am also learning web development with an online bootcamp called [LaunchSchool]
  these tools in my free time. Though I try to avoid too much frontend tech, I do have experience with 
 `JavaScript/Jquery`, `HTML`, `CSS` and `Twitter Bootstrap`.
 
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us10.list-manage.com","uuid":"5cf1357188318621f1457e31d","lid":"5693e1d41a"}) })</script>
 
 <div class="profile {% if page.featured == true %} featured {% endif %}">
     {% if site.author_image != "" %}<img src="{{ site.author_image }}" class="profileimage" alt="user">{% endif %}
@@ -22,6 +23,6 @@ I am also learning web development with an online bootcamp called [LaunchSchool]
     <hr>
 </div>
 
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us10.list-manage.com","uuid":"5cf1357188318621f1457e31d","lid":"5693e1d41a"}) })</script>
+
 
 
