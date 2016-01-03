@@ -5,11 +5,6 @@ permalink: /about/
 comments: false
 ---
 
-Greetings! My name is Taurus Omejia. I recently fell into web development.
-There is so much to learn in this space. It seems there's something new popping up everyday. Its overwhelming!
-Nevertheless I am loving this journey. I have learned so much in such a short peroid of time, and I am committed
-to sticking with it.
-
 Currently I am a web developer at Exigo Office, learning .Net with C#. Before starting at Exigo, I attended an in person 
 coding bootcamp called [EpicU](http://www.epicu.org/){:target="_blank"}.
 
