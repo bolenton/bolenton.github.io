@@ -10,10 +10,13 @@ There is so much to learn in this space. It seems there's something new popping 
 Nevertheless I am loving this journey. I have learned so much in such a short peroid of time, and I am committed
 to sticking with it.
 
-Currently I am learning .Net with C# as student of an in person coding bootcamp called [EpicU](https://www.epicu.org/),
-I am also learning web developement with an online bootcamp called [TeaLeaf Academy](https://www.gotealeaf.com/).
-I am mainly interested in the backend via `Ruby & Rails`, `Python | Django`, and `C# | Asp.net MVC`, with a little
-`JavaScript/Jquery.` for good measure. Though I am not much into frontend, I have basic knowledge of `HTML`, and `CSS`.
+Currently I am a web developer at Exigo Office, learning .Net with C#. Before starting at Exigo, I attended an in person 
+coding bootcamp called [EpicU](https://www.epicu.org/).
+
+I am also learning web development with an online bootcamp called [TeaLeaf Academy](https://www.gotealeaf.com/).
+Aside from using `C# | Asp.net MVC` at work, I'm also interested in `Ruby & Rails`, `Python | Django`, I am trying to
+explorer those tools in my free time. Though I try to avoid too much frontend tech, I do have experience with 
+`JavaScript/Jquery.`, `HTML`, `CSS` and `Twitter Bootstrap`.
 
 
 <div class="profile {% if page.featured == true %} featured {% endif %}">
