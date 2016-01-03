@@ -14,7 +14,6 @@ I am also learning web development with an online bootcamp called [LaunchSchool]
 `JavaScript/Jquery`, `HTML`, `CSS` and `Twitter Bootstrap`.
 
 
-
 <div class="profile {% if page.featured == true %} featured {% endif %}">
     {% if site.author_image != "" %}<img src="{{ site.author_image }}" class="profileimage" alt="user">{% endif %}
     <h4>{{ site.author_name }}</h4>
