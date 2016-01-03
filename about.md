@@ -13,7 +13,7 @@ to sticking with it.
 Currently I am a web developer at Exigo Office, learning .Net with C#. Before starting at Exigo, I attended an in person 
 coding bootcamp called [EpicU](https://www.epicu.org/).
 
-I am also learning web development with an online bootcamp called [TeaLeaf Academy](https://www.gotealeaf.com/).
+I am also learning web development with an online bootcamp called [LaunchSchool](https://launchschool.com/).
 Aside from using `C# | Asp.net MVC` at work, I'm also interested in `Ruby & Rails`, `Python | Django`, I am trying to
 explorer those tools in my free time. Though I try to avoid too much frontend tech, I do have experience with 
 `JavaScript/Jquery.`, `HTML`, `CSS` and `Twitter Bootstrap`.
