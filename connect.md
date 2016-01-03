@@ -17,7 +17,7 @@ comments: false
 
 Say `Hello` at <taurus@tauruso.com> or find me on social network.
 
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us10.list-manage.com","uuid":"5cf1357188318621f1457e31d","lid":"5693e1d41a"}) })</script>
+
 
 <div class="profile {% if page.featured == true %} featured {% endif %}">
 
@@ -53,3 +53,4 @@ Say `Hello` at <taurus@tauruso.com> or find me on social network.
     <!--End mc_embed_signup-->
 
 </div>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us10.list-manage.com","uuid":"5cf1357188318621f1457e31d","lid":"5693e1d41a"}) })</script>
