@@ -8,6 +8,7 @@ comments: false
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us10.list-manage.com","uuid":"5cf1357188318621f1457e31d","lid":"5693e1d41a"}) })</script>
 
 <h2 align="center">Subscribe to my mailing list</h2>
     I would Love to keep in touch with you! Hit subscribe if you want to receive updates from me. 
@@ -16,8 +17,6 @@ comments: false
 #### Contact me
 
 Say `Hello` at <taurus@tauruso.com> or find me on social network.
-
-
 
 <div class="profile {% if page.featured == true %} featured {% endif %}">
 
