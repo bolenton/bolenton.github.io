@@ -11,7 +11,7 @@ Nevertheless I am loving this journey. I am learning more and more every day!
 
 Currently I am learning .Net with C# as student of an in person coding bootcamp called [EpicU](https://www.epicu.org/),
 I am also learning web developement with an online bootcamp called [TeaLeaf Academy](https://www.gotealeaf.com/).
-I am mainly interested in the backend via `Python | Django`, and `C# | Asp.net MVC`. I also use Angular and TypeScript.
+I am mainly interested in the backend via `Python | Django`, and `C# | Asp.net MVC`. I also use `Angular | TypeScript.`
 Though I am not much into frontend, I have good knowledge of `HTML`, and `CSS`.
 
 
