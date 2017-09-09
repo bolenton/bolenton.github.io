@@ -33,7 +33,7 @@ Great you made it to step 2. Now that your blog is ready, let's put it under ver
 4. Let's commit it: `$ git commit -m "first commit"`
 Wonderful your site is ready and under version control. Now the fun begins. 
 
-##<i class="fa fa-cog"></i>Step 3: Push to Github
+## <i class="fa fa-cog"></i>Step 3: Push to Github
 We are finally ready to push to github and see our site automatically running live online for free!
 
 1. Launch [github.com](https://github.com/) and sign in.
