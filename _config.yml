@@ -14,7 +14,7 @@ paginate: 					5
 # Author Settings
 author_name: 				"Taurus Omejia"
 author_url: 				"http://tauruso.com"
-author_bio: 				"Jr Web developer: I like the web so I'm building things for it! The tools I'm learning to leverage are Ruby/Rails - Python/Django - C#|ASP.NET MVC"
+author_bio: 				"Software Engineer: I like the web so I build things for it! Tools I use include: C#|ASP.NET MVC/Api - Python |Django - Angular"
 author_email: 				"taurus@tauruso.com"
 author_image: 				"/assets/img/taurus/IMG_0016.jpg"
 
