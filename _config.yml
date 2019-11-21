@@ -6,7 +6,7 @@ email: 						"taurus@tauruso.com"
 description: 				"I am on a Journey learning Web Development. I'm having a blast and I want you along for the ride."
 baseurl: 					""
 url: 						"/"
-logourl: 					"/assets/img/taurus/IMG_0016.jpg"
+logourl: 					"/assets/img/taurus/Taurus.jpg"
 fa-logo: 					"fa-bookmark-o"
 paginate: 					5
 
@@ -16,7 +16,7 @@ author_name: 				"Taurus Omejia"
 author_url: 				"http://tauruso.com"
 author_bio: 				"Software Engineer: I like the web so I build things for it! Tools I use include: C# ASP.NET MVC WebApi - Python | Django - Angular - Typescript - Sql"
 author_email: 				"taurus@tauruso.com"
-author_image: 				"/assets/img/taurus/IMG_0016.jpg"
+author_image: 				"/assets/img/taurus/Taurus.jpg"
 
 
 # Social Settings
