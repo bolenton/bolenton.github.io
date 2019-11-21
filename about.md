@@ -5,8 +5,7 @@ permalink: /about/
 comments: false
 ---
 
-I am a web developer at Exigo Office. Before starting at Exigo, I attended an in person 
-coding bootcamp called [EpicU](http://www.epicu.org/){:target="_blank"}.
+I am a Senior Software Engineer at [Stealth Monitoring](http://https://stealthmonitoring.com){:target="_blank"}.. Before starting at Stealth, I worked Exigo Office as Web Developer Team Lead. [Exigo](http://http://exigo.com/){:target="_blank"}.
 
  Aside from using `C# | Asp.net MVC` at work, I also have experience Angular, TypeScript and `Python | Django`. Though I don't particularly enjoy too much frontend tech, I do have experience with 
 `JavaScript/Jquery`, `HTML`, `CSS` and `Twitter Bootstrap`.
