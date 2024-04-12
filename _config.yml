@@ -3,7 +3,7 @@
 # Site Settings
 title: 						"Taurus Omejia"
 email: 						"taurus@tauruso.com"
-description: 				"Senior Software Engineer by day. Creator extraordinary by night."
+description: 				"Senior Software Engineer by day. Entrepreneur by night."
 baseurl: 					""
 url: 						"/"
 logourl: 					"/assets/img/taurus/Taurus.jpg"
@@ -14,7 +14,7 @@ paginate: 					5
 # Author Settings
 author_name: 				"Taurus Omejia"
 author_url: 				"http://tauruso.com"
-author_bio: 				"Software Engineer: I like the web so I build things for it! Tools I use include: C# ASP.NET MVC WebApi - Python | Django - Angular - Typescript - Sql"
+author_bio: 				"Software Engineer: Have worked in the technology industry for over a decade, with broad experience in software, networking, and dev-ops,"
 author_email: 				"taurus@tauruso.com"
 author_image: 				"/assets/img/taurus/Taurus.jpg"
 
